@@ -8,7 +8,7 @@
 <flex-config>
   <compiler>
     <external-library-path>
-      <path-element>${flexlib}/libs/player/9/playerglobal.swc</path-element>
+      <path-element>${flexlib}/libs/player/11.1/playerglobal.swc</path-element>
       <path-element>lib/corelib-20070830.swc</path-element>
       <path-element>lib/as3crypto-1_3_patched.swc</path-element>
     </external-library-path>
